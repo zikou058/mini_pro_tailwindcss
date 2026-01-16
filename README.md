@@ -22,7 +22,7 @@ You can see the project in action by opening `index.html` in any modern web brow
 ├── index.html         # Main landing page
 └── tailwind.config.js # Tailwind configuration
 ```
-⚙️ How to Run Locally
+## ⚙️ How to Run Locally
 ### 1.Clone the repo:
 ```
 git clone [https://github.com/zikou058/mini_pro_tailwindcss.git](https://github.com/zikou058/mini_pro_tailwindcss.git)
