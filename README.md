@@ -21,7 +21,7 @@ You can see the project in action by opening `index.html` in any modern web brow
 │   └── images/        # Local icons and assets
 ├── index.html         # Main landing page
 └── tailwind.config.js # Tailwind configuration
-
+```
 ⚙️ How to Run Locally
 ### 1.Clone the repo:
 ```
